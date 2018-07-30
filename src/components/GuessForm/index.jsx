@@ -1,7 +1,7 @@
 import React from "react";
 import { connect } from "react-redux";
 
-import { makeGuess } from "../actions/index";
+import { makeGuess } from "../../components/../actions/index";
 
 import "./guess-form.css";
 
